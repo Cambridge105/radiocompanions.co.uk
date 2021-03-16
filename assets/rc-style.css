@@ -1,0 +1,17 @@
+#top-logo {
+	display:block;
+	text-align: center;
+}
+.page-heading {
+	display: none;
+}
+h2 {
+	text-align: center;
+	padding-bottom: 1em;
+}
+.station-logo {
+	/*width: 200px;*/
+}
+.station-logo img {
+	width: 100%;
+}
