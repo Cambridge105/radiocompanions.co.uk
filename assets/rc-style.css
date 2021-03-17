@@ -10,8 +10,17 @@ h2 {
 	padding-bottom: 1em;
 }
 .station-logo {
-	/*width: 200px;*/
+	margin:auto;
 }
 .station-logo img {
 	width: 100%;
+}
+.contrib-logo {
+	width: 100px;
+}
+.station-logos .col-sm {
+	display:grid;
+}
+.contributor-entry {
+	padding-bottom: 2em;
 }

@@ -22,3 +22,6 @@ title: Radio Companions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.radiocompanions.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
+collections:
+  contributors:
+    output: true
