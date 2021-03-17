@@ -2,11 +2,15 @@
 	display:block;
 	text-align: center;
 }
+#top-logo img {
+	width: 100%;
+}
 .page-heading {
 	display: none;
 }
 h2 {
 	text-align: center;
+	padding-top: 1em;
 	padding-bottom: 1em;
 }
 .station-logo {
