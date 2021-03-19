@@ -16,15 +16,26 @@ h2 {
 .station-logo {
 	margin:auto;
 }
+.station-logo-small img {
+	width: 50%;
+}
 .station-logo img {
 	width: 100%;
 }
 .contrib-logo {
 	width: 100px;
+	height: 100%;
+	margin: auto;
 }
 .station-logos .col-sm {
 	display:grid;
 }
 .contributor-entry {
 	padding-bottom: 2em;
+}
+#listen-sidebar {
+	margin-top: 1em;
+}
+#details-content {
+	margin-top: 1em;
 }
