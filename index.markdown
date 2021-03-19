@@ -6,7 +6,7 @@ title:
 
 Welcome to the Radio Companions website where you can find details of the organisations featured in our campaign across radio stations in East Anglia.
 
-Companions, known on Cambridge 105 Radio, Cam FM and Star Radio as Cambridge Companions, is supported by the government-backed Audio Content Fund. It's designed to draw attention to loneliness and offer help and advice to listeners who may be suffering or may be able to reach out to support others.
+**Companions**, known on Cambridge 105 Radio, Cam FM and Star Radio as **Cambridge Companions**, is supported by the government-backed Audio Content Fund. It's designed to draw attention to loneliness and offer help and advice to listeners who may be suffering or may be able to reach out to support others.
 
 ### Listen on air
 
