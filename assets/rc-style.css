@@ -43,3 +43,9 @@ h2 {
 #details-content {
 	margin-top: 1em;
 }
+#contrib-logo-float {
+	max-height: 200px;
+}
+#contrib-details-panel {
+	background: rgba(0,0,0,.03);
+}

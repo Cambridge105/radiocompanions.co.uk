@@ -1,0 +1,8 @@
+<div class="card float-right" id="contrib-details-panel">
+  <img id="contrib-logo-float" src="/assets/logos/orgs/{{ page.contriblogo }}" alt="{{ page.title }} logo" />
+  <div class="card-body">
+    {% if page.website %}<p><a href="{{ page.website }}" target="_blank">{{page.title}} website</a></p>{% endif %}
+    {% if page.twitter %}<p><a href="https://twitter.com/{{ page.twitter }}" target="_blank">@{{ page.twitter }} on Twitter</a></p>{% endif %}
+    {% if page.facebook %}<p><a href="https://facebook.com/{{ page.facebook }}" target="_blank">@{{ page.facebook }} on Facebook</a></p>{% endif %}
+  </div>
+</div>

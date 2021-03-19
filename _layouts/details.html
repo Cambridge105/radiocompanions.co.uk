@@ -17,7 +17,7 @@
     <a href="/"><div id="top-logo"><img src="{{ "/assets/companions-banner.png" | relative_url }}" /></div></a>
     <div class="row">
       <div class="col-9" id="details-content">
-        <img class="float-right" src="/assets/logos/orgs/{{ page.contriblogo }}" alt="{{ page.title }} logo" />
+        {% include contrib_more_details.html %}
         <h3>Listen online: {{ page.title }}</h3>
         {{ content }}
         <p><a href="/">Back...</a></p>
