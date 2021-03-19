@@ -18,6 +18,7 @@ h2 {
 }
 .station-logo-small img {
 	width: 50%;
+	padding-bottom: 1em;
 }
 .station-logo img {
 	width: 100%;
@@ -35,6 +36,9 @@ h2 {
 }
 #listen-sidebar {
 	margin-top: 1em;
+}
+#listen-sidebar .card-body {
+		text-align: center;
 }
 #details-content {
 	margin-top: 1em;
