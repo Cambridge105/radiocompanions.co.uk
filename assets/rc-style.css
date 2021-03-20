@@ -25,7 +25,7 @@ h2 {
 }
 .contrib-logo {
 	width: 100px;
-	height: 100%;
+	height: auto;
 	margin: auto;
 }
 .station-logos .col-sm {

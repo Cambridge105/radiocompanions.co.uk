@@ -62,13 +62,21 @@ Welcome to the Radio Companions website where you can find details of the organi
 
 ### Listen online
 
-{% for post in site.contributors %}
-<div class="media position-relative contributor-entry">
-  <img src="/assets/logos/orgs/{{ post.contriblogo }}" class="mr-3 contrib-logo" alt="{{ post.title }}">
-  <div class="media-body">
-    <h5 class="mt-0">{{ post.title }}</h5>
-    <p>{{ post.excerpt }}</p>
-    <a href="{{ post.url }}" class="stretched-link">Listen...</a>
-  </div>
+<div class="container station-logos">
+    <div class="row">
+
+    {% for post in site.contributors %}
+        <div class="col-sm-12 col-lg-6">
+            <div class="media position-relative contributor-entry">
+              <img src="/assets/logos/orgs/{{ post.contriblogo }}" class="mr-3 contrib-logo" alt="{{ post.title }}">
+              <div class="media-body">
+                <h5 class="mt-0">{{ post.title }}</h5>
+                <p>{{ post.excerpt }}</p>
+                <a href="{{ post.url }}" class="stretched-link">Listen...</a>
+              </div>
+            </div>
+        </div>
+    {% endfor %}
+
+    </div>
 </div>
-{% endfor %}
