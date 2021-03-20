@@ -1,14 +1,13 @@
 ---
-title: Campaign Against Living Miserably
+title: CALMtown St Ives
 contriblogo: calm.png
 layout: details
 excerpt_separator: <!--more-->
-website: https://www.thecalmzone.net/
-twitter: thecalmzone
-facebook: theCALMzone
+website: https://www.calmtown.org/
+facebook: CALMtown
 ---
-The Campaign Against Living Miserably (CALM) is leading a movement against suicide. Every week 125 people in the UK take their own lives. And 75% of all UK suicides are male. CALM exists to change this.
+CALMtown aims to connect the people of St Ives, Cambridgeshire, to develop a community-led approach to mental health.
 <!--more-->
 
-Matt Finch joined Alex Elbro to talk about CALM Town St Ives:
+Matt Finch joined Alex Elbro:
 {% include media_item.html item="calm/calm-st-ives-alex" %}
