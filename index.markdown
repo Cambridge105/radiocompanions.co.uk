@@ -12,47 +12,47 @@ Welcome to the Radio Companions website where you can find details of the organi
 
 <div class="container station-logos">
     <div class="row">
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.camfm.co.uk" target="_blank"><img src="{{ "/assets/logos/stations/camfm.png" | relative_url }}" alt="Cam FM" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.cambridge105.co.uk" target="_blank"><img src="{{ "/assets/logos/stations/cambridge105radio.png" | relative_url }}" alt="Cambridge 105 Radio" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="http://www.futureradio.co.uk" target="_blank"><img src="{{ "/assets/logos/stations/futureradio.png" | relative_url }}" alt="Future Radio" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.nliveradio.com" target="_blank"><img src="{{ "/assets/logos/stations/nlive.png" | relative_url }}" alt="NLive Radio" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="http://www.parkradio.co.uk" target="_blank"><img src="{{ "/assets/logos/stations/parkradio.png" | relative_url }}" alt="Park Radio" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.pcrfm.co.uk" target="_blank"><img src="{{ "/assets/logos/stations/pcr.png" | relative_url }}" alt="PCRFM" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.radiowestnorfolk.co.uk/" target="_blank"><img src="{{ "/assets/logos/stations/radiowestnorfolk.png" | relative_url }}" alt="Radio West Norfolk" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.rutlandandstamfordsound.co.uk/" target="_blank"><img src="{{ "/assets/logos/stations/rutlandstamford.png" | relative_url }}" alt="Rutland & Stamford Sound" /></a>
             </div>
         </div>
-        <div class="col-sm">
+        <div class="col-4 col-md-3 col-lg">
             <div class="station-logo">
                 <a href="https://www.star.radio" target="_blank"><img src="{{ "/assets/logos/stations/starradio.png" | relative_url }}" alt="Star Radio" /></a>
             </div>
