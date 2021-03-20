@@ -4,8 +4,7 @@ contriblogo: writeon.png
 layout: details
 excerpt_separator: <!--more-->
 website: https://www.writeon.org.uk/
-twitter: Wood_Green
-facebook: WoodGreenTheAnimalsCharity
+twitter: writeoncam
 ---
 WRiTEON is an open scriptwriting forum made up of a large and diverse group of writers, actors, directors and producers from the Cambridge region and beyond.
 <!--more-->
