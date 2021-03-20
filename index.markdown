@@ -62,11 +62,9 @@ Welcome to the Radio Companions website where you can find details of the organi
 
 ### Listen online
 
-Coming soon...
-{% comment %}
 {% for post in site.contributors %}
 <div class="media position-relative contributor-entry">
-  <img src="/assets/logos/contribs/{{ post.contriblogo }}" class="mr-3 contrib-logo" alt="{{ post.title }}">
+  <img src="/assets/logos/orgs/{{ post.contriblogo }}" class="mr-3 contrib-logo" alt="{{ post.title }}">
   <div class="media-body">
     <h5 class="mt-0">{{ post.title }}</h5>
     <p>{{ post.excerpt }}</p>
@@ -74,4 +72,3 @@ Coming soon...
   </div>
 </div>
 {% endfor %}
-{% endcomment %}
