@@ -53,7 +53,3 @@ Robert-Louis Abrahamson and Lucy Milazzo bring poems by Edgar Allan Poe and Emil
 
 Selena tells her story of loneliness away from her family in another country:
 {% include media_item.html item="personal-reflections/selena" %}
-
-Talking Together can help:
-{% include media_item.html item="personal-reflections/talking-together-1" %}
-{% include media_item.html item="personal-reflections/talking-together-2" %}
