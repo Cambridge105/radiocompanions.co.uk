@@ -9,3 +9,8 @@ facebook: PeterboroughCC
 ---
 Peterborough City Council is a unitary authority providing all local government services to the people of Peterborough and its surrounding villages.
 <!--more-->
+
+Their Keep Your Head website is a one-stop shop for information on wellbeing and mental health:
+{% include media_item.html item="peterborough-cc/keep-your-head" %}
+
+Find out more on the [Keep Your Head website](https://www.keep-your-head.com/)
