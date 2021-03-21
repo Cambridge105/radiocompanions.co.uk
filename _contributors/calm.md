@@ -11,3 +11,5 @@ CALMtown aims to connect the people of St Ives, Cambridgeshire, to develop a com
 
 Matt Finch joined Alex Elbro:
 {% include media_item.html item="calm/calm-st-ives-alex" %}
+
+CALMtown St Ives is part of the national Campaign Against Living Miserably. Find out more on [their website](https://www.thecalmzone.net/).
