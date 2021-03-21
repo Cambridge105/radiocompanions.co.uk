@@ -9,3 +9,7 @@ facebook: CambridgeshireCC
 ---
 Cambridgeshire County Council is county council for Cambridgeshire, based at Shire Hall in Cambridge.
 <!--more-->
+
+{% include media_item.html item="cambridgeshire-county-council/cambridgeshire-county-council" %}
+
+Find out more about [Cambridgeshire County Council's campaign to tackle loneliness and isolation](https://www.cambridgeshire.gov.uk/residents/adults/connect-with-your-local-community/tackling-loneliness-and-social-isolation).
