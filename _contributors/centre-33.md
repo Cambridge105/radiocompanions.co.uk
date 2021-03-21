@@ -7,7 +7,7 @@ website: https://centre33.org.uk/
 twitter: Centre33Camb
 facebook: centre33cambs
 ---
-Centre 33 supports young people up to the age of 25 with mental health, caring responsibilities, housing, sexual health and more.
+Centre 33 provides free and confidential support and information for young people up the age of 25. The service has hubs in Cambridge, Ely, Huntingdon, Peterborough and Wisbech, and offer support with mental health, caring responsibilities, housing, sexual health, money, employment and more.
 <!--more-->
 
 Lydia spoke to Ben Volonakis about how young people have been affected by loneliness during the pandemic:
