@@ -19,7 +19,7 @@ Andrew Copson considers the Humanist approach to life:
 Dr Chris Williams investigated some interventions in helping with loneliness, including the possibility of robot dogs:
 {% include media_item.html item="personal-reflections/chris-williams-studies" %}
 {% include media_item.html item="personal-reflections/chris-williams" %}
-
+You can find more about his research [here](https://www.cam.ac.uk/research/news/robotic-dogs-and-laughter-therapy-10-ways-to-combat-loneliness-and-isolation-while-social-distancing).
 
 Linda Ness suggests borrowing a dog, trying geocaching, or learning to paint your own nails:
 {% include media_item.html item="personal-reflections/dog-walking" %}
