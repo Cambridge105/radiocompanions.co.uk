@@ -21,3 +21,11 @@ Some of their staff reflect on loneliness, its effects people's health, and thei
 {% include media_item.html item="south-cambs-dc/south-cambs-dc-8" %}
 {% include media_item.html item="south-cambs-dc/south-cambs-dc-9" %}
 {% include media_item.html item="south-cambs-dc/south-cambs-dc-10" %}
+{% include media_item.html item="south-cambs-dc/south-cambs-dc-11" %}
+{% include media_item.html item="south-cambs-dc/south-cambs-dc-12" %}
+{% include media_item.html item="south-cambs-dc/south-cambs-dc-13" %}
+{% include media_item.html item="south-cambs-dc/south-cambs-dc-14" %}
+
+Find out more about [Men's Sheds](https://menssheds.org.uk)
+
+Find out more about [Neighbourhood Watch](https://www.ourwatch.org.uk)
