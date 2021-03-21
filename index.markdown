@@ -62,6 +62,8 @@ Welcome to the Radio Companions website where you can find details of the organi
 
 ### Listen online
 
+To listen to the interviews, select the organisation you would like to hear about:
+
 <div class="container station-logos">
     <div class="row">
 
